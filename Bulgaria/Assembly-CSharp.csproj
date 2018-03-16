@@ -51,8 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Blagоеvgrad.cs" />
-     <Compile Include="Assets\Pazardjik.cs" />
+     <Compile Include="Assets\Scripts\Blagоеvgrad.cs" />
+     <Compile Include="Assets\Scripts\Burgas.cs" />
+     <Compile Include="Assets\Scripts\Varna.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
