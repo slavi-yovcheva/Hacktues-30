@@ -255,7 +255,7 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -337,7 +337,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u0413\u0440\u0435\u0448\u0435\u043D"
+  m_Text: "\u0413\u0440\u0435\u0448\u043D\u043E"
 --- !u!222 &378368383
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -576,7 +576,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   correctBtn: {fileID: 1267799013}
   wrongBtn: {fileID: 999650944}
-  score: 0
 --- !u!1 &1267799010
 GameObject:
   m_ObjectHideFlags: 0

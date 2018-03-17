@@ -44,3 +44,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Varna/Varna.Vupros.unity
     guid: 2515cd874cca2254fb9b2fd9ed191058
+  - enabled: 1
+    path: Assets/Sofia/SofiaScene.unity
+    guid: 9bf628e2f89e3f54e9002e1408d7a5c2
+  - enabled: 1
+    path: Assets/Sofia/SofiqVuprosi.unity
+    guid: c6a8da90f9a30da4fb490991ce05d078
