@@ -9,14 +9,26 @@ EditorBuildSettings:
     path: Assets/scenes/Bulgaria.unity
     guid: 1a84a240758492040a3c8d3b128de5c8
   - enabled: 1
-    path: "Assets/scenes/\u0411\u043B\u0430\u0433\u043E\u0435\u0432\u0433\u0440\u0430\u0434.unity"
-    guid: 540e0a7f6dbe9974bb2747386f1e556a
-  - enabled: 1
     path: Assets/scenes/Burgas.unity
     guid: c2617d9b1749ede44b2c4025d16c1f83
+  - enabled: 1
+    path: Assets/scenes/Greshen.Otgovor.unity
+    guid: 65fca4082a7adad4b8ce88dfb8352db6
+  - enabled: 1
+    path: Assets/scenes/Kyustendil.unity
+    guid: 90640108c0a15c3419f917bfe7af7ebf
+  - enabled: 1
+    path: Assets/scenes/BlagoevgradVuprosi.unity
+    guid: f6412f409d207684eb2a7c4d19c660ea
   - enabled: 1
     path: Assets/scenes/Varna.unity
     guid: 5b042b02ba875c9419aeee5b8a3afcfb
   - enabled: 1
     path: Assets/scenes/Veren.Otgovor.unity
     guid: 309a05005ccfff348b14c3cce9c404d3
+  - enabled: 1
+    path: "Assets/scenes/\u0411\u043B\u0430\u0433\u043E\u0435\u0432\u0433\u0440\u0430\u0434.unity"
+    guid: 540e0a7f6dbe9974bb2747386f1e556a
+  - enabled: 1
+    path: Assets/scenes/BurgasVuprosi.unity
+    guid: 89fd926b14f51d24f9326be6ef8892bf
