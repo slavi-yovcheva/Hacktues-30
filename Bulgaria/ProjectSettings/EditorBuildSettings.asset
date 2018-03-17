@@ -44,3 +44,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Varna/Varna.Vupros.unity
     guid: 2515cd874cca2254fb9b2fd9ed191058
+  - enabled: 1
+    path: Assets/Pazardjik/Pazardjik.Vuprosi.unity
+    guid: 3e46b261c74611e4eb4251ebc195e51d
+  - enabled: 1
+    path: Assets/Pazardjik/Pazardjik.unity
+    guid: 28f1b1e67d7a204419c1a7174d436fbe

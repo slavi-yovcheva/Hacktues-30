@@ -476,6 +476,7 @@ GameObject:
   - component: {fileID: 300362766}
   - component: {fileID: 300362765}
   - component: {fileID: 300362768}
+  - component: {fileID: 300362769}
   m_Layer: 5
   m_Name: Pazardjik
   m_TagString: Untagged
@@ -521,7 +522,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 0}
     m_HighlightedColor: {r: 0, g: 0, b: 0, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
@@ -540,7 +541,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2081914354}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 102900000, guid: 28f1b1e67d7a204419c1a7174d436fbe, type: 3}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &300362766
@@ -549,7 +561,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 300362763}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -587,6 +599,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6a22dab3c19e7440bd553c166c53636, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &300362769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 300362763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 961dcca672bf1a540bb7ace37f548803, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 300362765}
 --- !u!1 &383147927
 GameObject:
   m_ObjectHideFlags: 0
