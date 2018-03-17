@@ -62,3 +62,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Smolqn/Smolqn.Vupros.unity
     guid: 507a590247e685e4e8a4f063f45ffff3
+  - enabled: 1
+    path: Assets/Kurdjali/Kurdjali.unity
+    guid: c77c96d618aa9ad43b3c3c92db80ec8e
+  - enabled: 1
+    path: Assets/Kurdjali/Kurdjali.Vupros.unity
+    guid: 5ab33a64d886ebf42bcc1866133cb199
