@@ -353,6 +353,7 @@ GameObject:
   - component: {fileID: 274814727}
   - component: {fileID: 274814726}
   - component: {fileID: 274814725}
+  - component: {fileID: 274814728}
   m_Layer: 5
   m_Name: Sofiq
   m_TagString: Untagged
@@ -464,6 +465,18 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 274814723}
+--- !u!114 &274814728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 274814723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbfc840efbe8e3b42800e3b07608f9ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 274814725}
 --- !u!1 &300362763
 GameObject:
   m_ObjectHideFlags: 0

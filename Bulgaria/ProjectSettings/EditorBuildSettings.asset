@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Kyustendil/KystendilVuprosi.unity
-    guid: 5fe26741b0c98194c8d3ea2656124548
+    path: Assets/Sofia/SofiqVuprosi.unity
+    guid: c6a8da90f9a30da4fb490991ce05d078
   - enabled: 1
-    path: Assets/Kyustendil/Kyustendil.unity
-    guid: 90640108c0a15c3419f917bfe7af7ebf
+    path: Assets/Sofia/SofiaScene.unity
+    guid: 9bf628e2f89e3f54e9002e1408d7a5c2
   - enabled: 1
     path: Assets/Blagoevgrad/BlagoevgradVuprosi.unity
     guid: f6412f409d207684eb2a7c4d19c660ea
@@ -23,6 +23,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Burgas/BurgasVuprosi.unity
     guid: 89fd926b14f51d24f9326be6ef8892bf
+  - enabled: 1
+    path: Assets/Kyustendil/KystendilVuprosi.unity
+    guid: 5fe26741b0c98194c8d3ea2656124548
+  - enabled: 1
+    path: Assets/Kyustendil/Kyustendil.unity
+    guid: 90640108c0a15c3419f917bfe7af7ebf
+  - enabled: 1
+    path: Assets/Pazardjik/Pazardjik.unity
+    guid: 28f1b1e67d7a204419c1a7174d436fbe
+  - enabled: 1
+    path: Assets/Pazardjik/Pazardjik.Vuprosi.unity
+    guid: 3e46b261c74611e4eb4251ebc195e51d
+  - enabled: 1
+    path: Assets/Varna/Varna.Vupros.unity
+    guid: 2515cd874cca2254fb9b2fd9ed191058
   - enabled: 1
     path: Assets/Pernik/Pernik.unity
     guid: e7f7685c70810bf43b4a36918e9dbc8f
@@ -41,20 +56,3 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Varna/Varna.unity
     guid: 5b042b02ba875c9419aeee5b8a3afcfb
-  - enabled: 1
-    path: Assets/Varna/Varna.Vupros.unity
-    guid: 2515cd874cca2254fb9b2fd9ed191058
-  - enabled: 1
-<<<<<<< HEAD
-    path: Assets/Pazardjik/Pazardjik.Vuprosi.unity
-    guid: 3e46b261c74611e4eb4251ebc195e51d
-  - enabled: 1
-    path: Assets/Pazardjik/Pazardjik.unity
-    guid: 28f1b1e67d7a204419c1a7174d436fbe
-=======
-    path: Assets/Sofia/SofiaScene.unity
-    guid: 9bf628e2f89e3f54e9002e1408d7a5c2
-  - enabled: 1
-    path: Assets/Sofia/SofiqVuprosi.unity
-    guid: c6a8da90f9a30da4fb490991ce05d078
->>>>>>> ef5a747a71f6fd153e3652921ee806b660441da8
