@@ -35,3 +35,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Varna/Varna.Vupros.unity
     guid: 2515cd874cca2254fb9b2fd9ed191058
+  - enabled: 1
+    path: Assets/Kyustendil/KystendilVuprosi.unity
+    guid: 5fe26741b0c98194c8d3ea2656124548

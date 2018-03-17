@@ -1287,6 +1287,7 @@ GameObject:
   - component: {fileID: 1233425214}
   - component: {fileID: 1233425213}
   - component: {fileID: 1233425212}
+  - component: {fileID: 1233425215}
   m_Layer: 5
   m_Name: Kyustendil
   m_TagString: Untagged
@@ -1351,7 +1352,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 784878175}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 102900000, guid: 90640108c0a15c3419f917bfe7af7ebf, type: 3}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1233425213
@@ -1387,6 +1399,18 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1233425210}
+--- !u!114 &1233425215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1233425210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028a131a4c2a6fb4788165cbfd8801ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  button: {fileID: 1233425212}
 --- !u!1 &1386910581
 GameObject:
   m_ObjectHideFlags: 0
