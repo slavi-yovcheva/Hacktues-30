@@ -45,8 +45,16 @@ EditorBuildSettings:
     path: Assets/Varna/Varna.Vupros.unity
     guid: 2515cd874cca2254fb9b2fd9ed191058
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Pazardjik/Pazardjik.Vuprosi.unity
     guid: 3e46b261c74611e4eb4251ebc195e51d
   - enabled: 1
     path: Assets/Pazardjik/Pazardjik.unity
     guid: 28f1b1e67d7a204419c1a7174d436fbe
+=======
+    path: Assets/Sofia/SofiaScene.unity
+    guid: 9bf628e2f89e3f54e9002e1408d7a5c2
+  - enabled: 1
+    path: Assets/Sofia/SofiqVuprosi.unity
+    guid: c6a8da90f9a30da4fb490991ce05d078
+>>>>>>> ef5a747a71f6fd153e3652921ee806b660441da8

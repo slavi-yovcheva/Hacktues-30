@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 54841971}
   - component: {fileID: 54841970}
   m_Layer: 5
-  m_Name: Button
+  m_Name: true
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -343,8 +343,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eef85b7b58235d842bfb577ef7953942, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correctBtn: {fileID: 54841970}
-  wrongBtn: {fileID: 1050483785}
+  correctBtn: {fileID: 1050483785}
+  wrongBtn: {fileID: 54841970}
 --- !u!1 &744108875
 GameObject:
   m_ObjectHideFlags: 0
@@ -482,11 +482,11 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 15
+    m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 40
+    m_MinSize: 0
+    m_MaxSize: 120
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -494,7 +494,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "\u0421\u0432. \u041F\u0435\u0442\u044A\u0440 \u0435 \u0431\u0438\u043B
-    \ \u043D\u0430\u0439 \u2013 \u0432\u0435\u043B\u0438\u043A\u044F\u0442  \u0431\u044A\u043B\u0433\u0430\u0440\u0441\u043A\u0438
+    \u043D\u0430\u0439\u2013\u0432\u0435\u043B\u0438\u043A\u044F\u0442  \u0431\u044A\u043B\u0433\u0430\u0440\u0441\u043A\u0438
     \u0441\u0432\u0435\u0442\u0435\u0446."
 --- !u!222 &821649579
 CanvasRenderer:
@@ -514,7 +514,7 @@ GameObject:
   - component: {fileID: 1050483786}
   - component: {fileID: 1050483785}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: false
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
