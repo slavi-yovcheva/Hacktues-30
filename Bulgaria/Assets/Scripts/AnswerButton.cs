@@ -6,17 +6,29 @@ using UnityEngine.SceneManagement;
 
 public class AnswerButton : MonoBehaviour {
 	public Button correctBtn;
-	public Button wrongBtn;
-	public int score = 0;
+	public Button wrongBtn; 
+	GameObject score;
+	ScorePoints scoreScript;
+	Text text;
+
 	void Start()
 	{
 		correctBtn.onClick.AddListener (onCorrectPressed);
 		wrongBtn.onClick.AddListener (onWrongPressed);
+		score = GameObject.Find ("ScoreText");
+		scoreScript = score.GetComponent<ScorePoints>();
+		text = score.GetComponent<Text>();
+		 
 	}
 
 	public void onCorrectPressed()
 	{
-			SceneManager.LoadScene ("Veren.Otgovor", LoadSceneMode.Single);
+		scoreScript.points += 10;
+		text.text = "Score: " + scoreScript.points;
+
+		SceneManager.LoadScene ("Veren.Otgovor", LoadSceneMode.Single);
+
+	
 	}
 
 	public void onWrongPressed()

@@ -6,14 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/SCENE/Bulgaria.unity
-    guid: 1a84a240758492040a3c8d3b128de5c8
-  - enabled: 1
-    path: Assets/Burgas/Burgas.unity
-    guid: c2617d9b1749ede44b2c4025d16c1f83
-  - enabled: 1
-    path: Assets/SCENE/Greshen.Otgovor.unity
-    guid: 65fca4082a7adad4b8ce88dfb8352db6
+    path: Assets/Kyustendil/KystendilVuprosi.unity
+    guid: 5fe26741b0c98194c8d3ea2656124548
   - enabled: 1
     path: Assets/Kyustendil/Kyustendil.unity
     guid: 90640108c0a15c3419f917bfe7af7ebf
@@ -21,23 +15,32 @@ EditorBuildSettings:
     path: Assets/Blagoevgrad/BlagoevgradVuprosi.unity
     guid: f6412f409d207684eb2a7c4d19c660ea
   - enabled: 1
-    path: Assets/Varna/Varna.unity
-    guid: 5b042b02ba875c9419aeee5b8a3afcfb
-  - enabled: 1
-    path: Assets/SCENE/Veren.Otgovor.unity
-    guid: 309a05005ccfff348b14c3cce9c404d3
-  - enabled: 1
     path: "Assets/Blagoevgrad/\u0411\u043B\u0430\u0433\u043E\u0435\u0432\u0433\u0440\u0430\u0434.unity"
     guid: 540e0a7f6dbe9974bb2747386f1e556a
+  - enabled: 1
+    path: Assets/Burgas/Burgas.unity
+    guid: c2617d9b1749ede44b2c4025d16c1f83
   - enabled: 1
     path: Assets/Burgas/BurgasVuprosi.unity
     guid: 89fd926b14f51d24f9326be6ef8892bf
   - enabled: 1
-    path: Assets/Varna/Varna.Vupros.unity
-    guid: 2515cd874cca2254fb9b2fd9ed191058
+    path: Assets/Pernik/Pernik.unity
+    guid: e7f7685c70810bf43b4a36918e9dbc8f
   - enabled: 1
     path: Assets/Pernik/Pernik.Vupros.unity
     guid: a701dde50d6a2a14b818bf2ec7b0a2e1
   - enabled: 1
-    path: Assets/Pernik/Pernik.unity
-    guid: e7f7685c70810bf43b4a36918e9dbc8f
+    path: Assets/SCENE/Bulgaria.unity
+    guid: 1a84a240758492040a3c8d3b128de5c8
+  - enabled: 1
+    path: Assets/SCENE/Greshen.Otgovor.unity
+    guid: 65fca4082a7adad4b8ce88dfb8352db6
+  - enabled: 1
+    path: Assets/SCENE/Veren.Otgovor.unity
+    guid: 309a05005ccfff348b14c3cce9c404d3
+  - enabled: 1
+    path: Assets/Varna/Varna.unity
+    guid: 5b042b02ba875c9419aeee5b8a3afcfb
+  - enabled: 1
+    path: Assets/Varna/Varna.Vupros.unity
+    guid: 2515cd874cca2254fb9b2fd9ed191058
