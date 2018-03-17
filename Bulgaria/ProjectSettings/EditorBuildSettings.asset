@@ -56,3 +56,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Varna/Varna.unity
     guid: 5b042b02ba875c9419aeee5b8a3afcfb
+  - enabled: 1
+    path: Assets/Smolqn/Smolqn.unity
+    guid: 77cf7346374853444b72c8a0d2779bce
+  - enabled: 1
+    path: Assets/Smolqn/Smolqn.Vupros.unity
+    guid: 507a590247e685e4e8a4f063f45ffff3

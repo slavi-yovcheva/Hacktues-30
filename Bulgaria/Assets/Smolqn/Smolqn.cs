@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class Blagоеvgrad : MonoBehaviour 
+public class Smolqn : MonoBehaviour 
 {
 	public Button button;
 
@@ -16,6 +16,6 @@ public class Blagоеvgrad : MonoBehaviour
 
 	public void TaskOnClick () 
 	{
-		SceneManager.LoadScene("Благоевград", LoadSceneMode.Single);
+		SceneManager.LoadScene("Smolqn", LoadSceneMode.Single);
 	}
 }

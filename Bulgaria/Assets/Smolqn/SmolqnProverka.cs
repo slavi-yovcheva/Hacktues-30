@@ -1,21 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+using UnityEngine; 
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class Blagоеvgrad : MonoBehaviour 
+public class SmolqnProverka : MonoBehaviour 
 {
+
 	public Button button;
 
+	// Use this for initialization
 	void Start () 
 	{
 		Button btn = button.GetComponent<Button>();
 		btn.onClick.AddListener(TaskOnClick);
 	}
 
+	// Update is called once per frame
 	public void TaskOnClick () 
 	{
-		SceneManager.LoadScene("Благоевград", LoadSceneMode.Single);
+		SceneManager.LoadScene("Smolqn.Vupros", LoadSceneMode.Single);
 	}
 }
