@@ -146,3 +146,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sliven/Sliven.Vupros.unity
     guid: dbefc81c8d91bef41987f28e1b809182
+  - enabled: 1
+    path: Assets/Stara Zagora/StaraZagora.vuprosi.unity
+    guid: bae27ad6c7300f34e8d31c7ea5e14e49
