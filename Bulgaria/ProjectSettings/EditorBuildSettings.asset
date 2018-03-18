@@ -116,3 +116,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Qmbol/Qmbol.unity
     guid: a78810e43408a2a46b22bda1fbe74253
+  - enabled: 1
+    path: Assets/Razgrad/Razgrad.unity
+    guid: 0d2b81574bfa7574cb24574244d4f371
+  - enabled: 1
+    path: Assets/Razgrad/Razgrad.Vupros.unity
+    guid: 166cb44b5cb2f58429c7533d48f635f5
