@@ -86,3 +86,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Gabrovo/Gabrovo.Vupross.unity
     guid: 5d855b5114c348c42875a75fd90f93af
+  - enabled: 1
+    path: Assets/Haskovo/Haskovo.unity
+    guid: a3dbf92fa0b214c418face2699795f6d
+  - enabled: 1
+    path: Assets/Haskovo/Haskovo.Vupros.unity
+    guid: bc32d3260cb09ed4ea0c8bd58786f30c
