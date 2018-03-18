@@ -128,3 +128,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Ruse/Ruse.Vupros.unity
     guid: edf294c042df96246814a59ced8063b8
+  - enabled: 1
+    path: Assets/Shumen/Shumen.unity
+    guid: 888cfbb46f8aeea49a033480b9459094
+  - enabled: 1
+    path: Assets/Shumen/Shumen.Vupros.unity
+    guid: 059a1b24be39b2c48937aeec2551aee9
