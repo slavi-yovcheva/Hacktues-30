@@ -92,3 +92,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Haskovo/Haskovo.Vupros.unity
     guid: bc32d3260cb09ed4ea0c8bd58786f30c
+  - enabled: 1
+    path: Assets/Lovech/Lovech.Vupros.unity
+    guid: a02da29b530f17b4fbd895e48e1fd406
+  - enabled: 1
+    path: Assets/Lovech/Lovech.unity
+    guid: b8865c29b0d1aae43a98e81fb7424067
