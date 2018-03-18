@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class CanvasDont : MonoBehaviour {
 	public static bool eSuzdadenno = false;
-	void Start () {
-		if (eSuzdadenno == false) {
+	void Start () 
+	{
+		if (eSuzdadenno == false) 
+		{
 			DontDestroyOnLoad (transform.gameObject);
 			eSuzdadenno = true;
 		} 
-		else {
+
+		else 
+		{
 			Destroy (gameObject);
 		}
 	}

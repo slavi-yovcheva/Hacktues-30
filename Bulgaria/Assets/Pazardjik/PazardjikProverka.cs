@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class PazardjikProverka : MonoBehaviour 
 {
-
 	public Button button;
 
 	void Start () 

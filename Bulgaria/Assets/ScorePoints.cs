@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScorePoints : MonoBehaviour {
-
+public class ScorePoints : MonoBehaviour 
+{
 	public int points = 0;
-
 }

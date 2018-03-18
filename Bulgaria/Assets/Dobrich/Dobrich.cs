@@ -4,9 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class PlovdivProverka : MonoBehaviour 
+public class Dobrich : MonoBehaviour 
 {
-
 	public Button button;
 
 	void Start () 
@@ -17,6 +16,6 @@ public class PlovdivProverka : MonoBehaviour
 
 	public void TaskOnClick () 
 	{
-		SceneManager.LoadScene("Plovdiv.Vupros", LoadSceneMode.Single);
+		SceneManager.LoadScene("Dobrich", LoadSceneMode.Single);
 	}
 }

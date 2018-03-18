@@ -74,3 +74,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Plovdiv/Plovdiv.unity
     guid: 578300902480f5848b5d8a0804013265
+  - enabled: 1
+    path: Assets/Dobrich/Dobrich.Vupros.unity
+    guid: 7990a6ffac192704a855654906bb65a8
+  - enabled: 1
+    path: Assets/Dobrich/Dobrich.unity
+    guid: e5ffbd964b16ac64e92a1b5c82558ae7

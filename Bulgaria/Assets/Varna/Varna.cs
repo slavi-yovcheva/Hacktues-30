@@ -5,13 +5,13 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class Varna : MonoBehaviour 
-{	public Button button;
-	// Use this for initialization
+{	
+	public Button button;
+
 	void Start () 
 	{
 		Button btn = button.GetComponent<Button> ();
 		btn.onClick.AddListener (TaskOnClick);
-
 	}
 
 	public void TaskOnClick () 
