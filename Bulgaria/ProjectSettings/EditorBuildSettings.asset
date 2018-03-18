@@ -122,3 +122,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Razgrad/Razgrad.Vupros.unity
     guid: 166cb44b5cb2f58429c7533d48f635f5
+  - enabled: 1
+    path: Assets/Ruse/Ruse.unity
+    guid: 67e397c9d0c61274ca2b8463af80290a
+  - enabled: 1
+    path: Assets/Ruse/Ruse.Vupros.unity
+    guid: edf294c042df96246814a59ced8063b8
