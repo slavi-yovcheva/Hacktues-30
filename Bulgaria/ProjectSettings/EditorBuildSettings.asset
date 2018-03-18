@@ -68,3 +68,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Kurdjali/Kurdjali.Vupros.unity
     guid: 5ab33a64d886ebf42bcc1866133cb199
+  - enabled: 1
+    path: Assets/Plovdiv/Plovdiv.Vupros.unity
+    guid: ce6f6ab54b344624cb50ea196caa7ff7
+  - enabled: 1
+    path: Assets/Plovdiv/Plovdiv.unity
+    guid: 578300902480f5848b5d8a0804013265
