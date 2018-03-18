@@ -146,3 +146,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sliven/Sliven.Vupros.unity
     guid: dbefc81c8d91bef41987f28e1b809182
+  - enabled: 1
+    path: Assets/Veliko Turnovo/Veliko Turnovo.unity
+    guid: 9ef45f48aaa367c4094642e20e565ab2
+  - enabled: 1
+    path: Assets/Veliko Turnovo/VTurnovo.Vupros.unity
+    guid: aa116a2f197b99d48a4676a7fcf377b2
