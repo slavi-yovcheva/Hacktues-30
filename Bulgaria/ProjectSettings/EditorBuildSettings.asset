@@ -98,3 +98,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Lovech/Lovech.unity
     guid: b8865c29b0d1aae43a98e81fb7424067
+  - enabled: 1
+    path: Assets/Montana/Montana.unity
+    guid: 2504f24881f8ffb43959a43e1dff813a
+  - enabled: 1
+    path: Assets/Montana/Montana.Vupros.unity
+    guid: 82f5fdd107c91934e84fd119929947c0
