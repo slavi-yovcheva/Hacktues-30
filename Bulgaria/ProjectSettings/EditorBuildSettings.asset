@@ -140,3 +140,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Silistra/Silistra.Vupros.unity
     guid: 3abe128e538555f4b9ca036ebba25734
+  - enabled: 1
+    path: Assets/Sliven/Sliven.unity
+    guid: f3f568806b643114ba0e1905c9089bfb
+  - enabled: 1
+    path: Assets/Sliven/Sliven.Vupros.unity
+    guid: dbefc81c8d91bef41987f28e1b809182
