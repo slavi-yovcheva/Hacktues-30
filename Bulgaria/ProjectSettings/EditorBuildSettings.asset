@@ -104,3 +104,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Montana/Montana.Vupros.unity
     guid: 82f5fdd107c91934e84fd119929947c0
+  - enabled: 1
+    path: Assets/Pleven/Pleven.unity
+    guid: cdb774986ba287948ba54ae151fa007d
+  - enabled: 1
+    path: Assets/Pleven/Pleven.Vupros.unity
+    guid: bb37925938ad72740baa21a9c46742da
